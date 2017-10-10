@@ -13,6 +13,7 @@
 #import "SCLocationManager.h"
 #import <MapKit/MapKit.h>
 
+// update if necessary
 static NSString * const SCBaseURLString = @"https://temporal-grin-180122.appspot.com";
 
 @implementation SCPostManager
