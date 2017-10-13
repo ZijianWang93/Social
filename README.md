@@ -1,9 +1,7 @@
 README
 ==========
 This is the front end iOS application for Social Network with events posting and searching functions. Source code of back end is stored in
-```
-https://github.com/ZijianWang93/SocialBackend
-```
+[Back-End for Social](https://github.com/ZijianWang93/SocialBackend)
 
 Demo Requirements
 ---------
