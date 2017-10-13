@@ -14,7 +14,7 @@ Social/Social.xcworkspace
 
 Possible Issues
 ---------
-1. The back end sever is active now, thus there is nothing needing any updating. If the back end is terminated, the connection link in SCPostManager.m should be updated. There is a comment above the link:
+1. The back end server is active now, thus there is nothing needing any updating. If the back end server is terminated, a new server should be provided and the connection link in SCPostManager.m should be updated. There is a comment above the link:
 ```
   // update if necessary
 ```
